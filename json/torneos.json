@@ -1,0 +1,68 @@
+[
+    {
+        "codigo": "01",
+        "torneo": "VALORANT",
+        "plataforma": "PC",
+        "estructura": "Eliminación simple",
+        "modalidad": "5v5",
+        "inscripcion": "$10",
+        "servidor": "LAS",
+        "premio": "$1000",
+        "imagen": "./img/logo valorant.jpg"
+    },
+    {
+        "codigo": "02",
+        "torneo": "LOL",
+        "plataforma": "PC",
+        "estructura": "Eliminación simple",
+        "modalidad": "5v5",
+        "inscripcion": "$8",
+        "servidor": "LAS",
+        "premio": "$750",
+        "imagen": "./img/logo lol.jpg"
+    },
+    {
+        "codigo": "03",
+        "torneo": "CSGO",
+        "plataforma": "PC", 
+        "modalidad": "5v5", 
+        "día y horario": "sábados 7pm",
+        "inscripción": "$5",
+        "servidor": "LAS",
+        "premio": "$500",
+        "imagen": "./img/logo csgo.jpg"
+    },
+    {
+        "codigo": "04",
+        "torneo": "FIFA23",
+        "plataforma": "PC",
+        "estructura": "Eliminación simple", 
+        "modalidad": "5v5", 
+        "inscripción": "$5",
+        "servidor": "LAS",
+        "premio": "$500",
+        "imagen": "./img/logo fifa.jpg"
+    },
+    {
+        "codigo": "05",
+        "torneo": "Rocket League",
+        "plataforma": "PC",
+        "estructura": "Eliminación simple", 
+        "modalidad": "2v2", 
+        "inscripción": "$3",
+        "servidor": "LAS",
+        "premio": "$300",
+        "imagen": "./img/logo rocket league.jpg"
+    },
+    {
+        "codigo": "06",
+        "torneo": "Call of Duty Mobile",
+        "plataforma": "Mobile",
+        "estructura": "Liga", 
+        "modalidad": "4v4",
+        "inscripción": "$3",
+        "servidor": "LAS",
+        "premio": "$300",
+        "imagen": "./img/logo call of duty mobile.jpg"
+    }
+]
